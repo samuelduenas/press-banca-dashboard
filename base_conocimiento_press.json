@@ -1,0 +1,73 @@
+{
+  "empuje_desbalanceado": {
+    "clase": "empuje_desbalanceado",
+    "riesgo": "Un empuje asimétrico indica una diferencia de fuerza, activación o movilidad entre el hemicuerpo derecho e izquierdo. Esto genera rotación involuntaria de la barra, compensaciones en la columna torácica y lumbar, y sobrecarga unilateral del hombro y el codo. A largo plazo puede producir lesiones de labrum, epicondilitis y desequilibrios posturales.",
+    "correccion": [
+      "Realiza press con mancuernas unilateral (1 brazo) para identificar y trabajar el lado más débil de forma independiente.",
+      "Verifica la posición y simetría de los pies: ambos pies deben ejercer la misma presión sobre el suelo (leg drive simétrico).",
+      "Revisa el agarre: asegúrate de que la barra esté centrada usando los anillos de la barra como referencia visual.",
+      "Practica el press con barra en rack de seguridad a media altura para detectar si la barra se inclina durante la fase concéntrica.",
+      "Añade trabajo de core antirotación (pallof press) para mejorar la estabilidad del tronco durante el empuje bilateral.",
+      "Consulta con un fisioterapeuta si la asimetría persiste: puede indicar inhibición neuromuscular o restricción articular."
+    ],
+    "fuentes": [
+      {
+        "titulo": "How to Bench Press – Stronger By Science",
+        "url": "https://www.strongerbyscience.com/how-to-bench/",
+        "fragmento": "Uneven pressing often reflects a strength imbalance or asymmetric setup. Single-arm dumbbell work and careful attention to grip symmetry can resolve most cases."
+      },
+      {
+        "titulo": "Barbell Bench Press – ExRx.net",
+        "url": "https://exrx.net/WeightExercises/PectoralSternal/BBBenchPress",
+        "fragmento": "Ensure the bar is evenly gripped and feet are symmetrically planted. Asymmetric force application places undue stress on the shoulder and elbow joints."
+      }
+    ],
+    "desde_cache": false,
+    "_timestamp": 1795504030.3788621
+  },
+  "codos_abiertos": {
+    "clase": "codos_abiertos",
+    "riesgo": "La apertura excesiva de codos (>75° respecto al torso) incrementa el momento de fuerza sobre el hombro y reduce la estabilidad glenohumeral. Esto sobrecarga los tendones del manguito rotador (especialmente el supraespinoso) y el labrum anterior, aumentando el riesgo de impingement subacromial, tendinitis crónica y, en casos extremos, desgarro del tendón del pectoral mayor.",
+    "correccion": [
+      "Mantén los codos entre 45° y 60° respecto al torso durante todo el recorrido; evita sobrepasar los 75°.",
+      "Activa el dorsal ancho ('aprieta naranjas en las axilas') para estabilizar la articulación glenohumeral en el descenso.",
+      "Agarra la barra con la muñeca en posición neutra (alineada con el antebrazo) y coloca las manos ligeramente más anchas que los hombros.",
+      "Practica la técnica con carga ligera frente a un espejo lateral o grábate para verificar el ángulo de codo en el punto más bajo.",
+      "Realiza trabajo de movilidad de pectoral y rotadores externos (face pulls, band pull-aparts) para equilibrar la musculatura."
+    ],
+    "fuentes": [
+      {
+        "titulo": "How to Bench Press: The Definitive Guide • Stronger by Science",
+        "url": "https://www.strongerbyscience.com/how-to-bench/",
+        "fragmento": "I discussed this issue in more detail in this article .  In short, though, you want your elbows tucked enough that you can touch the bar in the correct spot – lower chest to upper stomach, generally near the bottom of the sternum just below the pecs – but not so much that your elbows wind up very far in front of the bar.  In general, the angle between your upper arm and torso should be around 45-60 degrees."
+      }
+    ],
+    "desde_cache": false,
+    "_timestamp": 1795504602.9891176
+  },
+  "tecnica_correcta": {
+    "clase": "tecnica_correcta",
+    "riesgo": "La técnica es correcta. No se detectan fallos biomecánicos significativos en esta ejecución. El riesgo de lesión es bajo cuando se mantiene esta mecánica de forma consistente.",
+    "correccion": [
+      "Continúa manteniendo la retracción y depresión escapular durante todo el movimiento para proteger el hombro.",
+      "Conserva el leg drive simétrico: los pies deben presionar el suelo con fuerza constante para transmitir estabilidad al torso.",
+      "Mantén la muñeca neutra (sin extensión excesiva) con el agarre alineado con el antebrazo en todo el recorrido.",
+      "Progresa la carga de forma gradual (≤5% semanal) para preservar la calidad técnica con pesos más elevados.",
+      "Incluye variaciones periodizadas (press inclinado, paused bench, close-grip) para desarrollar puntos débiles sin comprometer la técnica base."
+    ],
+    "fuentes": [
+      {
+        "titulo": "How to Bench Press – Stronger By Science",
+        "url": "https://www.strongerbyscience.com/how-to-bench/",
+        "fragmento": "Proper bench press technique involves a stable arch, retracted scapulae, symmetrical leg drive, and a bar path that moves slightly toward the face on the way up."
+      },
+      {
+        "titulo": "Barbell Bench Press – ExRx.net",
+        "url": "https://exrx.net/WeightExercises/PectoralSternal/BBBenchPress",
+        "fragmento": "Correct execution: lower the bar to the lower chest with elbows at ~75° or less, maintain scapular retraction, and press in a slight arc back to the starting position."
+      }
+    ],
+    "desde_cache": false,
+    "_timestamp": 1795576735.4087796
+  }
+}
